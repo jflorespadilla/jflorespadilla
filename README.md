@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Game and graphics development
 - 🌱 I’m currently (re-)learning ... C++ programming and C# development with Unity
 - 📫 How to reach me ... jflorespadilla@outlook.com
-- 🕸 My site ... jfpblog.net
+- 🕸 My site ... Reboot in progress
 
 <!---
 jflorespadilla/jflorespadilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
